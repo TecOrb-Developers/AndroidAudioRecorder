@@ -29,8 +29,7 @@ This is a simple AndroidAudioRecording library that helps you to record the audi
 
 ```groovy
     dependencies {
-    implementation 'com.github.TecOrb-Developers:AndroidDateTimeUtils:v1.0.4'
-}
+    implementation 'com.github.TecOrb-Developers:AndroidAudioRecorder:v1.0.0'}
 ```
 
 ## How to use this library function
