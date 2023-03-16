@@ -1,0 +1,8 @@
+<resources>
+    <string name="stop">Stop</string>
+    <string name="record_audio">Record Audio</string>
+    <string name="play_audio">Play Audio</string>
+    <string name="remove_audio">Remove Audio</string>
+    <string name="pause_audio">Pause Audio</string>
+    <string name="ok">Ok</string>
+</resources>
